@@ -1,2 +1,2 @@
 # titanbreaker
-Dota 2 Titanbreaker
+Dota 2 Mod "Titanbreaker"
